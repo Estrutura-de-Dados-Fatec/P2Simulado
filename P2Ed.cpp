@@ -283,7 +283,9 @@ void exibirElementosArvore(NO* no, int qtEspacos)
 
 void exibirMaiorMenorElemento(NO* no)
 {
-	
+	// Aqui vai seu código 
+
+
 }
 
 void buscarElementoArvore(NO* no, int valor)
